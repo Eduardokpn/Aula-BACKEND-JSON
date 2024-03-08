@@ -1,9 +1,28 @@
 {
+  "clientes": [
+
+    {
+      "id":1,
+      "Nome": "Eduardo K.",
+      "CPF": 11111111111,
+      "Endereço": "Rua Canhoneira Mearim 710",
+      "Rua": "Canhoneira Mearim",
+      "bairro": "Vila Maria",
+      "cep": "02131020"
+    }
+
+  ],
+
   "posts": [
     {
       "id": 1,
       "title": "json-server",
       "author": "typicode"
+    },
+    {
+      "title": "SERVER deu vitu",
+      "author": "KPN",
+      "id": 2
     }
   ],
   "comments": [
